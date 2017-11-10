@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 3c18f3ac0ea1a184ba1dbfe54690c566
+timeCreated: 1482828249
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger0Nub
+    100016: Bip001 L Foot
+    100018: Bip001 L Forearm
+    100020: Bip001 L Hand
+    100022: Bip001 L HorseLink
+    100024: Bip001 L Thigh
+    100026: Bip001 L Toe0
+    100028: Bip001 L Toe0Nub
+    100030: Bip001 L UpperArm
+    100032: Bip001 Neck
+    100034: Bip001 Neck1
+    100036: Bip001 Pelvis
+    100038: Bip001 R Calf
+    100040: Bip001 R Clavicle
+    100042: Bip001 R Finger0
+    100044: Bip001 R Finger0Nub
+    100046: Bip001 R Foot
+    100048: Bip001 R Forearm
+    100050: Bip001 R Hand
+    100052: Bip001 R HorseLink
+    100054: Bip001 R Thigh
+    100056: Bip001 R Toe0
+    100058: Bip001 R Toe0Nub
+    100060: Bip001 R UpperArm
+    100062: Bip001 Spine
+    100064: Bip001 Spine1
+    100066: Bone001
+    100068: Bone002
+    100070: Bone003
+    100072: Bone005
+    100074: Bone005(mirrored)
+    100076: Bone006
+    100078: Bone006(mirrored)
+    100080: Bone007
+    100082: Bone007(mirrored)
+    100084: Bone009
+    100086: IK Chain001
+    100088: IK Chain002
+    100090: Point001
+    100092: Point003
+    100094: polySurface154
+    100096: Bip001 Footsteps
+    100098: body
+    100100: ride
+    100102: root
+    100104: Bone017
+    100106: Bone017(mirrored)
+    100108: Bone018
+    100110: Bone018(mirrored)
+    100112: Bone019
+    100114: Bone019(mirrored)
+    100116: Bone020
+    100118: Bone020(mirrored)
+    100120: Bone022
+    100122: Bone022(mirrored)
+    100124: Bone023
+    100126: Bone023(mirrored)
+    100128: Bone025
+    100130: Bone025(mirrored)
+    100132: Bone026
+    100134: Bone026(mirrored)
+    100136: Bone028
+    100138: Bone028(mirrored)
+    100140: Bone029
+    100142: Bone029(mirrored)
+    100144: Bone031
+    100146: Bone032
+    100148: Bone034
+    100150: Bone036
+    100152: Object002
+    100154: Bone024
+    100156: Bone024(mirrored)
+    100158: Bone038
+    100160: Bone038(mirrored)
+    100162: Bone039
+    100164: Bone039(mirrored)
+    100166: Bone042
+    100168: Bone042(mirrored)
+    100170: Bone044
+    100172: Bone044(mirrored)
+    100174: Bone045
+    100176: Bone045(mirrored)
+    100178: Bone047
+    100180: Bone047(mirrored)
+    100182: Bone048
+    100184: Bone048(mirrored)
+    100186: Bone050
+    100188: Bone051
+    100190: Bone052
+    100192: Bone053
+    100194: Bone054
+    100196: Bone055
+    100198: Bone057
+    100200: Bone057(mirrored)
+    100202: Bone058
+    100204: Bone058(mirrored)
+    100206: Bone059
+    100208: Bone059(mirrored)
+    100210: Bone061
+    100212: Bone061(mirrored)
+    100214: Bone062
+    100216: Bone062(mirrored)
+    100218: Bone063
+    100220: Bone063(mirrored)
+    100222: Bone065
+    100224: Bone065(mirrored)
+    100226: Bone066
+    100228: Bone066(mirrored)
+    100230: Bone067
+    100232: Bone067(mirrored)
+    100234: Bone068
+    100236: Bone068(mirrored)
+    100238: Bone070
+    100240: Bone071
+    100242: Bone072
+    100244: Bone073
+    100246: Bone075
+    100248: Bone075(mirrored)
+    100250: Bone076
+    100252: Bone076(mirrored)
+    100254: Bone077
+    100256: Bone077(mirrored)
+    100258: Bone079
+    100260: Bone080
+    100262: Bone081
+    100264: Bone083
+    100266: Bone083(mirrored)
+    100268: Bone084
+    100270: Bone084(mirrored)
+    100272: Bone086
+    100274: Bone086(mirrored)
+    100276: Bone088
+    100278: Bone088(mirrored)
+    100280: mesh
+    400000: //RootNode
+    400002: Bip001
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger0Nub
+    400016: Bip001 L Foot
+    400018: Bip001 L Forearm
+    400020: Bip001 L Hand
+    400022: Bip001 L HorseLink
+    400024: Bip001 L Thigh
+    400026: Bip001 L Toe0
+    400028: Bip001 L Toe0Nub
+    400030: Bip001 L UpperArm
+    400032: Bip001 Neck
+    400034: Bip001 Neck1
+    400036: Bip001 Pelvis
+    400038: Bip001 R Calf
+    400040: Bip001 R Clavicle
+    400042: Bip001 R Finger0
+    400044: Bip001 R Finger0Nub
+    400046: Bip001 R Foot
+    400048: Bip001 R Forearm
+    400050: Bip001 R Hand
+    400052: Bip001 R HorseLink
+    400054: Bip001 R Thigh
+    400056: Bip001 R Toe0
+    400058: Bip001 R Toe0Nub
+    400060: Bip001 R UpperArm
+    400062: Bip001 Spine
+    400064: Bip001 Spine1
+    400066: Bone001
+    400068: Bone002
+    400070: Bone003
+    400072: Bone005
+    400074: Bone005(mirrored)
+    400076: Bone006
+    400078: Bone006(mirrored)
+    400080: Bone007
+    400082: Bone007(mirrored)
+    400084: Bone009
+    400086: IK Chain001
+    400088: IK Chain002
+    400090: Point001
+    400092: Point003
+    400094: polySurface154
+    400096: Bip001 Footsteps
+    400098: body
+    400100: ride
+    400102: root
+    400104: Bone017
+    400106: Bone017(mirrored)
+    400108: Bone018
+    400110: Bone018(mirrored)
+    400112: Bone019
+    400114: Bone019(mirrored)
+    400116: Bone020
+    400118: Bone020(mirrored)
+    400120: Bone022
+    400122: Bone022(mirrored)
+    400124: Bone023
+    400126: Bone023(mirrored)
+    400128: Bone025
+    400130: Bone025(mirrored)
+    400132: Bone026
+    400134: Bone026(mirrored)
+    400136: Bone028
+    400138: Bone028(mirrored)
+    400140: Bone029
+    400142: Bone029(mirrored)
+    400144: Bone031
+    400146: Bone032
+    400148: Bone034
+    400150: Bone036
+    400152: Object002
+    400154: Bone024
+    400156: Bone024(mirrored)
+    400158: Bone038
+    400160: Bone038(mirrored)
+    400162: Bone039
+    400164: Bone039(mirrored)
+    400166: Bone042
+    400168: Bone042(mirrored)
+    400170: Bone044
+    400172: Bone044(mirrored)
+    400174: Bone045
+    400176: Bone045(mirrored)
+    400178: Bone047
+    400180: Bone047(mirrored)
+    400182: Bone048
+    400184: Bone048(mirrored)
+    400186: Bone050
+    400188: Bone051
+    400190: Bone052
+    400192: Bone053
+    400194: Bone054
+    400196: Bone055
+    400198: Bone057
+    400200: Bone057(mirrored)
+    400202: Bone058
+    400204: Bone058(mirrored)
+    400206: Bone059
+    400208: Bone059(mirrored)
+    400210: Bone061
+    400212: Bone061(mirrored)
+    400214: Bone062
+    400216: Bone062(mirrored)
+    400218: Bone063
+    400220: Bone063(mirrored)
+    400222: Bone065
+    400224: Bone065(mirrored)
+    400226: Bone066
+    400228: Bone066(mirrored)
+    400230: Bone067
+    400232: Bone067(mirrored)
+    400234: Bone068
+    400236: Bone068(mirrored)
+    400238: Bone070
+    400240: Bone071
+    400242: Bone072
+    400244: Bone073
+    400246: Bone075
+    400248: Bone075(mirrored)
+    400250: Bone076
+    400252: Bone076(mirrored)
+    400254: Bone077
+    400256: Bone077(mirrored)
+    400258: Bone079
+    400260: Bone080
+    400262: Bone081
+    400264: Bone083
+    400266: Bone083(mirrored)
+    400268: Bone084
+    400270: Bone084(mirrored)
+    400272: Bone086
+    400274: Bone086(mirrored)
+    400276: Bone088
+    400278: Bone088(mirrored)
+    400280: mesh
+    4300000: polySurface154
+    4300002: body
+    4300004: Object002
+    4300006: mesh
+    7400000: Take 001
+    7400002: RideRun
+    7400004: RideIdle
+    7400006: Rest
+    7400008: Idle
+    7400010: RideRunLeft
+    7400012: RideRunRight
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface154
+    13700002: body
+    13700004: Object002
+    13700006: mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Rest
+      takeName: 
+      firstFrame: 70
+      lastFrame: 106
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RideRun
+      takeName: 
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RideIdle
+      takeName: 
+      firstFrame: 25
+      lastFrame: 65
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: 
+      firstFrame: 25
+      lastFrame: 65
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
