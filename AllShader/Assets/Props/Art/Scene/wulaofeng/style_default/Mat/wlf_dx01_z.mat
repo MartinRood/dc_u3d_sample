@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: wlf_dx01_z
+  m_Shader: {fileID: 4800000, guid: 189b8d430ce4b8e42812c3abdd3ca40f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _Control
+      second:
+        m_Texture: {fileID: 2800000, guid: c427947d4feb62d4bb7cbb69ba5caa95, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normal0
+      second:
+        m_Texture: {fileID: 2800000, guid: 4631810d170836948bff5689f0f6c0ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normal1
+      second:
+        m_Texture: {fileID: 2800000, guid: 0300ecd5549b3304896ef48695d68763, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normal2
+      second:
+        m_Texture: {fileID: 2800000, guid: 67456d8a7cd8b654dbb378c17114fcdb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Shadow
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ShadowFade
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Splat0
+      second:
+        m_Texture: {fileID: 2800000, guid: 5d3235fe4d5f4744ea5441205089bf05, type: 3}
+        m_Scale: {x: 30, y: 30}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Splat1
+      second:
+        m_Texture: {fileID: 2800000, guid: cddb8bed55161544cbcfb8ff7d20a48a, type: 3}
+        m_Scale: {x: 50, y: 50}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Splat2
+      second:
+        m_Texture: {fileID: 2800000, guid: 27019c43498a2a84280a04ea96e534a8, type: 3}
+        m_Scale: {x: 45, y: 45}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Splat3
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _WeatherCtrlTex0
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _ShadowStrength
+      second: 1
+    m_Colors:
+    - first:
+        name: _Smoothness
+      second: {r: 0.3, g: 0.35, b: 0.5, a: 0.5}
+    - first:
+        name: _Spec0
+      second: {r: 0.22188583, g: 0.2794118, b: 0.2508472, a: 1}
+    - first:
+        name: _Spec1
+      second: {r: 0.41176468, g: 0.33300316, b: 0.27249134, a: 1}
+    - first:
+        name: _Spec2
+      second: {r: 0.26859862, g: 0.34921846, b: 0.39705884, a: 1}
+    - first:
+        name: _Tiling3
+      second: {r: 1, g: 1, b: 0, a: 0}

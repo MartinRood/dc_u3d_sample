@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: wlf_shitai02_w
+  m_Shader: {fileID: 4800000, guid: 1fdb22cf404bdd74cb4ea30b8a891290, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _Emissive
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 7cffe2edba65ffe40899cf47e9dc6c0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normal
+      second:
+        m_Texture: {fileID: 2800000, guid: f586e34cc68c73842a2f5eb06b10c9da, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Shadow
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ShadowFade
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SpecMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 8db6add2327a7464cb2df8ac87ffa769, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _ShadowStrength
+      second: 1
+    - first:
+        name: _Smoothness
+      second: 0.26
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.47794116, g: 0.42886683, b: 0.39711288, a: 1}
+    - first:
+        name: _EmissiveColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _IntensityColor
+      second: {r: 0.7211289, g: 0.79119146, b: 0.8602941, a: 0}
+    - first:
+        name: _Spec
+      second: {r: 0.29503676, g: 0.32205886, b: 0.375, a: 1}
