@@ -1,0 +1,25 @@
+Antialiasing (PostEffect) 抗锯齿特效（后期特效）
+Bloom and Lens Flares 泛光和镜头光晕特效
+Color Correction Curves 颜色校正曲线特效
+Contrast Enhance 对比度增强特效
+Crease 折皱特效（轮廓线）
+Depth of Field 3.4 景深特效
+Tonemapping 色调映射特效
+Edge Detect Effect Normals 法线的边缘检测特效
+Fisheye image effect 鱼眼图像特效
+Global Fog 全局雾化特效
+Sun Shafts 光线特效
+Tilt Shift 移轴特效
+Vignetting 渐晕特效
+Blur image effect 模糊图像特效
+Color Correction image effect 颜色校正图像特效
+Contrast Stretch image effect 对比度拉伸图像特效
+Edge Detection image effect 边缘检测图像特效
+Glow image effect 发光图像特效
+Grayscale image effect 灰度图像效果
+Motion Blur image effect 运动模糊图像特效
+Noise image effect 噪波图像特效
+Sepia Tone image effect 棕褐色调的图像特效
+Screen Space Ambient Occlusion (SSAO) image effect 屏幕空间的环境遮挡图像特效
+Twirl image effect 旋转图像特效
+Vortex image effect 涡流图像特效
