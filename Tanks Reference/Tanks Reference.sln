@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks Reference.CSharp.Plugins", "Tanks Reference.CSharp.Plugins.csproj", "{9933FCC5-9D51-2B58-C56A-480722352650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks Reference.CSharp", "Tanks Reference.CSharp.csproj", "{6B6B2962-C1AF-B877-955E-52DFFF1AC04A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks Reference.CSharp.Editor", "Tanks Reference.CSharp.Editor.csproj", "{F6256B79-B285-7009-8097-1B4C870B2693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9933FCC5-9D51-2B58-C56A-480722352650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9933FCC5-9D51-2B58-C56A-480722352650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9933FCC5-9D51-2B58-C56A-480722352650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9933FCC5-9D51-2B58-C56A-480722352650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6B2962-C1AF-B877-955E-52DFFF1AC04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6B2962-C1AF-B877-955E-52DFFF1AC04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6B2962-C1AF-B877-955E-52DFFF1AC04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6B2962-C1AF-B877-955E-52DFFF1AC04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6256B79-B285-7009-8097-1B4C870B2693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6256B79-B285-7009-8097-1B4C870B2693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6256B79-B285-7009-8097-1B4C870B2693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6256B79-B285-7009-8097-1B4C870B2693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
